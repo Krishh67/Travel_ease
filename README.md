@@ -1,5 +1,14 @@
 # Travel_ease
 TravelEase 🌍🚀 TravelEase is a travel guide app built using Flutter and Python. It provides users with real-time crowd level insights for various destinations. The app features a simple and interactive UI with smooth animations.
+
+
+
+
+https://github.com/user-attachments/assets/13d3981b-3cb3-4427-ba45-5b4baa302094
+
+![WhatsApp Image 2025-02-16 at 18 45 50_7ef43e5e](https://github.com/user-attachments/assets/211348dd-1950-4dda-93b5-6a60dd133edc)
+
+
 ✨ Features
 📍 Search Destinations with an intuitive UI
 📊 Crowd Level Visualization for better travel decisions
@@ -27,6 +36,8 @@ flutter run
  ┣ 📄 main.dart          # Main Flutter UI  
  ┣ 📄 secondpage.dart    # Secondary screen  
  ┣ 📄 pyy.py             # Python script for data handling  
+
+
  ┗ 📄 README.md          # Project documentation  
 📌 Future Enhancements
 🗺️ Google Places API for smarter search suggestions
